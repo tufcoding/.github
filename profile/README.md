@@ -91,7 +91,7 @@ Enterprise-grade protection for your applications
 
 ---
 
-**TUF Coding** | Established 2021 | © 2024 All Rights Reserved
+**TUF Coding** | Established 2021 | © 2025 All Rights Reserved
 
 *Transforming Ideas into Digital Excellence*
 
